@@ -7,6 +7,5 @@ Dependencies:
 * Unity3D Game Engine
 
 More Information:
-▶️ Youtube Video: [Youtube](https://www.youtube.com/watch?v=WC3x5MwJ6jU)
-
-🕹️ Download : [Play SHTR](https://kobusvdwalt.itch.io/shtr)
+- ▶️ Youtube Video: [Youtube](https://www.youtube.com/watch?v=WC3x5MwJ6jU)
+- 🕹️ Download : [Play SHTR](https://kobusvdwalt.itch.io/shtr)
