@@ -6,5 +6,8 @@ SHTR was made in two weeks as part of a game jam with the a maximum resolution c
 Dependencies:
 * Unity3D Game Engine
 
+## Youtube video
+Check out the gameplay here: [Youtube](https://www.youtube.com/watch?v=WC3x5MwJ6jU)
+
 ## Play Here
-You can play the game here : [Play SHTR](https://kobusvdwalt.github.io/games/shtr/)
+You can play the game here : [Play SHTR](https://kobusvdwalt.itch.io/shtr)
